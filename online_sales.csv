@@ -1,0 +1,5 @@
+transaction_id,product_sku,quantity_sold,sale_date,unit_price_usd
+1001,PROD-A5B,2,2023-10-01,25.50
+1002,PROD-C7D,1,2023-10-01,150.00
+1003,PROD-A5B,1,2023-10-02,25.50
+1004,PROD-E9F,5,2023-10-03,10.00
